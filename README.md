@@ -1,0 +1,1 @@
+# bible-chars-db
